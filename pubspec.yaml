@@ -3,6 +3,10 @@ description: A non-material and classified color chart for Flutter development.
 version: 0.0.0
 repository: https://github.com/aprosail/color-chart
 environment: {sdk: ">=3.3.4 <4.0.0", flutter: ">=3.3.0"}
+topics:
+  - flutter
+  - color
+  - color-chart
 
 dependencies:
   flutter: {sdk: flutter}
