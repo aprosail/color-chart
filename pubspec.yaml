@@ -1,6 +1,6 @@
 name: color_chart
 description: A non-material and classified color chart for Flutter development.
-version: 0.1.1
+version: 0.2.0
 homepage: https://github.com/treeinfra/color-chart
 repository: https://github.com/treeinfra/color-chart
 environment: {sdk: ">=3.3.4 <4.0.0", flutter: ">=3.22.0"}
