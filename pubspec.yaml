@@ -1,16 +1,18 @@
 name: color_chart
 description: A non-material and classified color chart for Flutter development.
-version: 0.1.0
-repository: https://github.com/aprosail/color-chart
-environment: {sdk: ">=3.4.0 <4.0.0", flutter: ">=3.22.0"}
+version: 0.1.1
+homepage: https://github.com/treeinfra/color-chart
+repository: https://github.com/treeinfra/color-chart
+environment: {sdk: ">=3.3.4 <4.0.0", flutter: ">=3.22.0"}
 topics:
   - flutter
   - color
   - color-chart
+  - non-material
 
 dependencies:
   flutter: {sdk: flutter}
 
 dev_dependencies:
   flutter_test: {sdk: flutter}
-  strict_lints: ^0.1.0
+  lintall: ^0.1.0

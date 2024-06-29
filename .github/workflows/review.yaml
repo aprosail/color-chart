@@ -5,4 +5,9 @@ on:
   pull_request: {branches: ["main", "dev"]}
 
 jobs:
-  review: {uses: aprosail/templates/.github/workflows/flutter-review.yaml@main}
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: flutter-actions/setup-flutter@v3
+      - run: sh review.sh
