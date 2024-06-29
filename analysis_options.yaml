@@ -1,1 +1,1 @@
-include: package:strict_lints/strict_lints.yaml
+include: package:lintall/lintall.yaml
