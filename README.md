@@ -7,5 +7,7 @@ Flutter officially provides the
 which you can simply call the `material` library.
 But that's not the only option.
 This package provides a non-material and classified color chart for Flutter.
-All the colors are named by nature and are easy to remember,
+All the colors are named by common items and are easy to remember,
 and they are also classified into smaller groups according to their styles.
+
+This package also provides some utils about the `Color`.

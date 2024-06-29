@@ -1,6 +1,7 @@
-## 0.1.2
+## 0.2.0
 
 - Move `transparent` into new namespace `MaskColors` (API change).
+- Hex color format convert as utils.
 
 ## 0.1.1
 
